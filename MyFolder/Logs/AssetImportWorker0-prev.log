@@ -1,0 +1,588 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22509.1000; Version 2009; 64bit' Language: 'en' Physical Memory: 12204 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files (x86)\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/MyFirstUnityProjectOnGitHub/MyFolder
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51258
+Successfully changed project path to: E:/MyFirstUnityProjectOnGitHub/MyFolder
+E:/MyFirstUnityProjectOnGitHub/MyFolder
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 55.25 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/MyFirstUnityProjectOnGitHub/MyFolder/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   
+    VRAM:     6102 MB
+    Driver:   30.0.100.9931
+Initialize mono
+Mono path[0] = 'C:/Program Files (x86)/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files (x86)/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files (x86)/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56772
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files (x86)/2020.3.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files (x86)/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003073 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 55.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.166 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003550 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 80.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.029 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.0 MB.
+System memory in use after: 94.9 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2527.
+Total: 5.065300 ms (FindLiveObjects: 0.412400 ms CreateObjectMapping: 0.313100 ms MarkObjects: 4.043000 ms  DeleteObjects: 0.293900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/FirstScript.cs
+  artifactKey: Guid(5a19f08d411f902499cec316db66881f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FirstScript.cs using Guid(5a19f08d411f902499cec316db66881f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd4ea77f0c0d8a74d9075cae5bc72d1') in 0.266737 seconds
+  Import took 0.273181 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011750 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.593 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2531.
+Total: 3.155600 ms (FindLiveObjects: 0.247200 ms CreateObjectMapping: 0.097800 ms MarkObjects: 2.677800 ms  DeleteObjects: 0.131300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 181.024565 seconds.
+  path: Assets/Scripts/FirstScript.cs
+  artifactKey: Guid(5a19f08d411f902499cec316db66881f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FirstScript.cs using Guid(5a19f08d411f902499cec316db66881f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd417eba87db4366d7bb6f5c580168314') in 0.007450 seconds
+  Import took 0.011823 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003231 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.385 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2535.
+Total: 3.257000 ms (FindLiveObjects: 0.241400 ms CreateObjectMapping: 0.089900 ms MarkObjects: 2.785500 ms  DeleteObjects: 0.138500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004356 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.475 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2539.
+Total: 2.849700 ms (FindLiveObjects: 0.214000 ms CreateObjectMapping: 0.090000 ms MarkObjects: 2.411100 ms  DeleteObjects: 0.132800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 991.315134 seconds.
+  path: Assets/Scripts/ScreenLoading.cs
+  artifactKey: Guid(e6290114d71af2a4e9610dc16ccc18ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScreenLoading.cs using Guid(e6290114d71af2a4e9610dc16ccc18ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf5563f2001e1cd838dacc236068e3a3') in 0.046177 seconds
+  Import took 0.061409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006794 seconds.
+  path: Assets/Scripts/ScreenLoading.cs
+  artifactKey: Guid(e6290114d71af2a4e9610dc16ccc18ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScreenLoading.cs using Guid(e6290114d71af2a4e9610dc16ccc18ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf5563f2001e1cd838dacc236068e3a3') in 0.050510 seconds
+  Import took 0.060102 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011656 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 17.245 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.8 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2544.
+Total: 3.807600 ms (FindLiveObjects: 0.535900 ms CreateObjectMapping: 0.274600 ms MarkObjects: 2.839000 ms  DeleteObjects: 0.156200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004606 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.526 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.8 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2548.
+Total: 3.454600 ms (FindLiveObjects: 0.391000 ms CreateObjectMapping: 0.263000 ms MarkObjects: 2.666100 ms  DeleteObjects: 0.132800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 308.573349 seconds.
+  path: Assets/Scripts/ScreenLoading.cs
+  artifactKey: Guid(e6290114d71af2a4e9610dc16ccc18ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScreenLoading.cs using Guid(e6290114d71af2a4e9610dc16ccc18ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c620cf2b96b5b22ae0d0997af2ec1eaa') in 0.007347 seconds
+  Import took 0.011712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.185994 seconds.
+  path: Assets/Scripts/PrevScreen.cs
+  artifactKey: Guid(f6be0a5232417a04292b801f8627e1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PrevScreen.cs using Guid(f6be0a5232417a04292b801f8627e1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeb6d0256a8203b4d1676b86ea02855e') in 0.051159 seconds
+  Import took 0.065630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002600 seconds.
+  path: Assets/Scripts/PrevScreen.cs
+  artifactKey: Guid(f6be0a5232417a04292b801f8627e1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PrevScreen.cs using Guid(f6be0a5232417a04292b801f8627e1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeb6d0256a8203b4d1676b86ea02855e') in 0.020517 seconds
+  Import took 0.030169 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017410 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.332 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.8 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2553.
+Total: 2.809200 ms (FindLiveObjects: 0.257200 ms CreateObjectMapping: 0.115800 ms MarkObjects: 2.276700 ms  DeleteObjects: 0.157800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015052 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.549 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.8 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2557.
+Total: 3.310900 ms (FindLiveObjects: 0.240700 ms CreateObjectMapping: 0.096400 ms MarkObjects: 2.835500 ms  DeleteObjects: 0.136800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.892495 seconds.
+  path: Assets/Scripts/PrevScreen.cs
+  artifactKey: Guid(f6be0a5232417a04292b801f8627e1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PrevScreen.cs using Guid(f6be0a5232417a04292b801f8627e1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56b2b12c0300d7e64ad9f0019ccad66b') in 0.008781 seconds
+  Import took 0.013840 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003487 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.944 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.8 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2561.
+Total: 3.237800 ms (FindLiveObjects: 0.371100 ms CreateObjectMapping: 0.172000 ms MarkObjects: 2.550700 ms  DeleteObjects: 0.141600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.811817 seconds.
+  path: Assets/Scripts/PrevScreen.cs
+  artifactKey: Guid(f6be0a5232417a04292b801f8627e1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PrevScreen.cs using Guid(f6be0a5232417a04292b801f8627e1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6523c70898fb3d64c75e900fbd30f120') in 0.007713 seconds
+  Import took 0.011653 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004023 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.454 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.9 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2565.
+Total: 3.023800 ms (FindLiveObjects: 0.223900 ms CreateObjectMapping: 0.099100 ms MarkObjects: 2.564700 ms  DeleteObjects: 0.134600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005738 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.924 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.9 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2569.
+Total: 6.271800 ms (FindLiveObjects: 0.947700 ms CreateObjectMapping: 0.544100 ms MarkObjects: 4.504100 ms  DeleteObjects: 0.273800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003501 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.335 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.9 MB.
+System memory in use after: 93.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2573.
+Total: 3.088500 ms (FindLiveObjects: 0.238300 ms CreateObjectMapping: 0.084800 ms MarkObjects: 2.625700 ms  DeleteObjects: 0.138100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 798.896247 seconds.
+  path: Assets/Scenes/Scene1.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44bec3f2430ce2eb3fa6709e45032e62') in 0.042057 seconds
+  Import took 0.048129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.739651 seconds.
+  path: Assets/Scenes/MainScene.unity
+  artifactKey: Guid(e2672d6faddfe1a4a8d534b6ce2cd168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainScene.unity using Guid(e2672d6faddfe1a4a8d534b6ce2cd168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df8ee524d2af2bd4545c749eff4a21ce') in 0.019983 seconds
+  Import took 0.025894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.901502 seconds.
+  path: Assets/Scenes/Scene1.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef591318a36bd87e034eb409b64e8935') in 0.021809 seconds
+  Import took 0.027265 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004575 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.772 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.9 MB.
+System memory in use after: 93.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2577.
+Total: 5.313900 ms (FindLiveObjects: 0.402000 ms CreateObjectMapping: 0.254300 ms MarkObjects: 4.477500 ms  DeleteObjects: 0.177800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.021262 seconds.
+  path: Assets/Scripts/PrevScreen.cs
+  artifactKey: Guid(f6be0a5232417a04292b801f8627e1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PrevScreen.cs using Guid(f6be0a5232417a04292b801f8627e1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09537f67b00cf912fbda841b2034bcce') in 0.013369 seconds
+  Import took 0.019636 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003289 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.435 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.36 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.9 MB.
+System memory in use after: 93.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2581.
+Total: 3.300500 ms (FindLiveObjects: 0.292400 ms CreateObjectMapping: 0.139600 ms MarkObjects: 2.719800 ms  DeleteObjects: 0.146700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.195593 seconds.
+  path: Assets/Scenes/Scene2.unity
+  artifactKey: Guid(d084c11de8e809f4f934307a2e130c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene2.unity using Guid(d084c11de8e809f4f934307a2e130c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f811ba586272a21f24074b55c68e6840') in 0.039819 seconds
+  Import took 0.047837 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003532 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.770 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2077 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.9 MB.
+System memory in use after: 93.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2585.
+Total: 3.942000 ms (FindLiveObjects: 0.275100 ms CreateObjectMapping: 0.105400 ms MarkObjects: 3.399500 ms  DeleteObjects: 0.160400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006272 seconds.
+Required property 'name' not set (Packages/com.unity.collab-proxy/Editor/Collaborate/Unity.CollabProxy.Editor.asmdef)
+
+Required property 'name' not set (Packages/com.unity.collab-proxy/Editor/Collaborate/Unity.CollabProxy.Editor.asmdef)
+
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Codice.CheckWorkspaceTreeNodeStatus:IsPrivate due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+
+Could not load signature of Unity.PlasticSCM.Editor.UI.Message.PlasticQuestionAlert:Show due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.UI.Message.PlasticQuestionAlert:Create due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.PendingChanges.Dialogs.PendingChangesOptionsDialog:ChangeOptions due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.PendingChanges.Dialogs.PendingChangesOptionsDialog:IsDirty due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.PendingChanges.Dialogs.PendingChangesOptionsDialog:GetOptions due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.PendingChanges.Dialogs.PendingChangesOptionsDialog:SetOptions due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.PendingChanges.Dialogs.PendingChangesOptionsDialog:CheckFsWatcher due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.PendingChanges.Dialogs.PendingChangesOptionsDialog:IsEnabled due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.PendingChanges.Dialogs.PendingChangesOptionsDialog:IsFileSystemWatcherEnabled due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.PendingChanges.Dialogs.PendingChangesOptionsDialog:Build due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.PendingChanges.Dialogs.CheckinMergeNeededDialog:Merge due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.PendingChanges.Dialogs.CheckinMergeNeededDialog:Create due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.PendingChanges.Dialogs.DependenciesDialog:IncludeDependencies due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.PendingChanges.Dialogs.DependenciesDialog:Create due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Configuration.CredentialsDialog:RequestCredentials due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Configuration.CredentialsDialog:BuildCredentialsDialogData due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Configuration.EncryptionConfigurationDialog:RequestEncryptionPassword due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Configuration.EncryptionConfigurationDialog:BuildEncryptionConfigurationData due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.AssetMenu.Dialogs.CheckinDialog:CheckinPaths due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.AssetMenu.Dialogs.CheckinDialog:DoFileList due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.AssetMenu.Dialogs.CheckinDialog:Create due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Configuration.TeamEdition.TeamEditionConfigurationWindow:ShowWindow due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Configuration.TeamEdition.TeamEditionConfigurationWindow:<ConnectButton_Clicked>b__3_2 due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Configuration.TeamEdition.TeamEditionConfigurationWindow:<ConnectButton_Clicked>b__3_3 due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Configuration.TeamEdition.TeamEditionConfigurationWindow:<CheckConnectionButton_Clicked>b__5_2 due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Gluon.UpdateReport.UpdateReportDialog:ShowUpdateReport due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Gluon.UpdateReport.UpdateReportDialog:GetUpdateReportResult due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Gluon.UpdateReport.UpdateReportDialog:UpdateUpdateReportList due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Gluon.UpdateReport.UpdateReportDialog:GetErrorDetailsText due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Gluon.UpdateReport.UpdateReportDialog:DoErrorDetailsTextArea due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Gluon.UpdateReport.UpdateReportDialog:BuildComponents due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Gluon.UpdateReport.UpdateReportDialog:Create due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.Diff.Dialogs.GetRestorePathDialog:GetRestorePath due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.Diff.Dialogs.GetRestorePathDialog:BuildGetRestorePathResult due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.Diff.Dialogs.GetRestorePathDialog:GetRestorePathResultType due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.PendingChanges.Dialogs.CheckinConflictsDialog:Show due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.PendingChanges.Dialogs.CheckinConflictsDialog:GetConflictsText due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Unloading broken assembly Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Required property 'name' not set (Packages/com.unity.collab-proxy/Editor/Collaborate/Unity.CollabProxy.Editor.asmdef)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.357 seconds
+Platform modules already initialized, skipping
+Could not load signature of Unity.PlasticSCM.Editor.Views.PendingChanges.Dialogs.EmptyCheckinMessageDialog:ShouldContinueWithCheckin due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.PendingChanges.Dialogs.EmptyCheckinMessageDialog:Create due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.Branches.CreateBranchDialog:CreateBranchFromLastParentBranchChangeset due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.Branches.CreateBranchDialog:Create due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.Branches.CreateBranchDialog:BuildCreationData due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.DownloadPlasticExeWindow:ShowWindow due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.CollabMigration.MigrationDialog:Show due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.CollabMigration.MigrationDialog:UpdateProgress due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.CollabMigration.MigrationDialog:LaunchMigration due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.CollabMigration.MigrationDialog:Create due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.ConfirmContinueWithPendingChangesDialog:ConfirmContinue due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.ConfirmContinueWithPendingChangesDialog:Create due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.Branches.Dialogs.RenameBranchDialog:GetBranchRenameData due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.Branches.Dialogs.RenameBranchDialog:Create due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Could not load signature of Unity.PlasticSCM.Editor.Views.Branches.Dialogs.RenameBranchDialog:BuildRenameData due to: Could not load file or assembly 'unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876' or one of its dependencies. assembly:unityplastic, Version=10.0.16.6224, Culture=neutral, PublicKeyToken=a107c9c6e34c8876 type:<unknown type> member:(null) signature:<none>
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2001 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.6 MB.
+System memory in use after: 92.6 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2625.
+Total: 8.721600 ms (FindLiveObjects: 1.085100 ms CreateObjectMapping: 0.371400 ms MarkObjects: 6.837900 ms  DeleteObjects: 0.423800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001409 seconds.
+Required property 'name' not set (Packages/com.unity.collab-proxy/Editor/Collaborate/Unity.CollabProxy.Editor.asmdef)
+
+Required property 'name' not set (Packages/com.unity.collab-proxy/Editor/Collaborate/Unity.CollabProxy.Editor.asmdef)
+
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Required property 'name' not set (Packages/com.unity.collab-proxy/Editor/Collaborate/Unity.CollabProxy.Editor.asmdef)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.241 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1688 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2629.
+Total: 4.811000 ms (FindLiveObjects: 0.423800 ms CreateObjectMapping: 0.224900 ms MarkObjects: 3.933500 ms  DeleteObjects: 0.226000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
